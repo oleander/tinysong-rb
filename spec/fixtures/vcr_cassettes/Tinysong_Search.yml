@@ -1,0 +1,566 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: http://tinysong.com/?s=s
+    body:
+      encoding: US-ASCII
+      string: q[]=smoke%20on%20the%20water%20deep%20purple&q[]=0
+    headers:
+      Accept:
+      - '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      Content-Length:
+      - '50'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - richhickey
+      Date:
+      - Mon, 22 Apr 2013 13:03:54 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Content-Length:
+      - '594'
+      Connection:
+      - close
+      Set-Cookie:
+      - TinysongSessionID=7e65216bddd13efad686a4da16073918; expires=Mon, 18-Apr-2016
+        13:03:53 GMT; path=/
+      Cache-Control:
+      - max-age=300
+      Expires:
+      - Mon, 22 Apr 2013 13:08:53 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      X-Hostname:
+      - rhl110
+      - rhl110
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA+WXyW7bMBCGX2WqQ5ECVazN8gLVhyIGfEhbwU7RiwCDkRlb
+        MLWUpLIgyLt3tFqynDa9Wa0OBjnkzPwz80mAn5WdDJkyVaDxOJvgHnxGhPjk
+        KZyKlMn1AydJQrmnQLA5YZ15ERw9TsqOgqAzpwy3pmmPDXtkqYIS7u9yd086
+        LKgdShMam1rEjmCkONp2EjoiIVF97zaVMo7w0ipzcLxBdtrwQAuGbRhO5EoY
+        eaqqFVytJHdqeKsUF+P9RkmW/4QKyYm/r5uBhymr1+2OlW1ZhfGeQhyB3FH4
+        QSTlmIIFrzgRLgOBc5ldUZqAm/KE0fZ93NUp/yTWZzhODNa4VwUrwmSNbrYK
+        7e9UFZaLa13XwBuANbGHQyNbaaCqx419HSjDtCxraA57BFQluVPDWQL1LYKb
+        Cii4uA7u6Yf/gSvd0kx9Mu4TV5XkTg1nxtXVfO6C+33pXs/fRFKXwz4CZdiG
+        ObJtrUdAVZI7NZwZUCc+VIamjeFiRaIND36mFN7DDRF7PFgQzugTLGkYPP7L
+        HzLAXQO+oa1PRrrRJ/hKyZ0azgy+zymPes1R7lkGi/Jk+QjCmNN1wZLAGVQC
+        2uaysfkEZk4QbkFwP6Np8EBvg8hn6YYKb+AL/AlCss02pfM6i3SZZD08IJB3
+        9AseQHnrMMAGQn9bofJRyTN8JSHFPzzFO4DGkAqBmtDURkjSR9mu7TB0yYux
+        LyiKRNZBxGGt9rIlN19hml0sZFSkLkSiDTNw4hJOQqFMn5X47k5QqUx1/eXl
+        F+Hu80aZDQAA
+    http_version: 
+  recorded_at: Mon, 22 Apr 2013 13:03:54 GMT
+- request:
+    method: post
+    uri: http://tinysong.com/?s=sh
+    body:
+      encoding: US-ASCII
+      string: q[]=33682674&q[]=search&q[]=smoke%20on%20the%20water%20deep%20purple
+    headers:
+      Accept:
+      - '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      Content-Length:
+      - '68'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - richhickey
+      Date:
+      - Mon, 22 Apr 2013 13:03:54 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Content-Length:
+      - '1568'
+      Connection:
+      - close
+      Set-Cookie:
+      - TinysongSessionID=0b397eb09ccfa1c20ee4169881e71b8a; expires=Mon, 18-Apr-2016
+        13:03:54 GMT; path=/
+      Cache-Control:
+      - max-age=300
+      Expires:
+      - Mon, 22 Apr 2013 13:08:54 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      X-Hostname:
+      - rhl072
+      - rhl072
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+    http_version: 
+  recorded_at: Mon, 22 Apr 2013 13:03:55 GMT
+- request:
+    method: post
+    uri: http://tinysong.com/?s=sh
+    body:
+      encoding: US-ASCII
+      string: q[]=23444535&q[]=search&q[]=smoke%20on%20the%20water%20deep%20purple
+    headers:
+      Accept:
+      - '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      Content-Length:
+      - '68'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - richhickey
+      Date:
+      - Mon, 22 Apr 2013 13:03:55 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Content-Length:
+      - '1587'
+      Connection:
+      - close
+      Set-Cookie:
+      - TinysongSessionID=cddcc8e6c4c5068ef25a90db8a76b67b; expires=Mon, 18-Apr-2016
+        13:03:55 GMT; path=/
+      Cache-Control:
+      - max-age=300
+      Expires:
+      - Mon, 22 Apr 2013 13:08:55 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      X-Hostname:
+      - rhl060
+      - rhl060
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+        p/PtH7BbnLWCGwAA
+    http_version: 
+  recorded_at: Mon, 22 Apr 2013 13:03:55 GMT
+- request:
+    method: post
+    uri: http://tinysong.com/?s=sh
+    body:
+      encoding: US-ASCII
+      string: q[]=14031985&q[]=search&q[]=smoke%20on%20the%20water%20deep%20purple
+    headers:
+      Accept:
+      - '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      Content-Length:
+      - '68'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - richhickey
+      Date:
+      - Mon, 22 Apr 2013 13:03:55 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Content-Length:
+      - '1574'
+      Connection:
+      - close
+      Set-Cookie:
+      - TinysongSessionID=1636e0df4aee765441ac357f38e3431e; expires=Mon, 18-Apr-2016
+        13:03:55 GMT; path=/
+      Cache-Control:
+      - max-age=300
+      Expires:
+      - Mon, 22 Apr 2013 13:08:55 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      X-Hostname:
+      - rhl072
+      - rhl072
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA9VZe2/bNhD/KqyB9AHHdl7tWjdxFnTJiiFtsybd/hFgUBJt
+        caZIgaLseEW/+47U+2XLaYptROCY5N3x7nd3fJy/9jzls964hwrN4qcuXSKH
+        4TA8s3oOo4EtsHStHqJucWAK35yF1ZtY3FKGp2l+SrhmDdWaEZgNREgVFXws
+        CcOKLslbEHBK/TkKpQPz1mhFbModFrkktEZOCB/Ux3PdCT0sydQRwTpbYxjw
+        eUG6j+Wc8oGkc0+N0cvg/i0KsOtSPh8oEYzRIYwAuTWanIYB5pN3IAvdUb4O
+        BZ8jRvkCKYHWIpIoX+IUVtbE8B+MBGvTLwoMbwErjByHgO41zLKJGLVdDU/Y
+        H2z2bcw/ixhbIxBIiastzvR7kltXtc0W94gTtRJyERadns7DSslwZcLBATKq
+        aU9nwpuoGJlViIpfi9Q+GAHYNC+oNbUjpQQPM4INynZXuKPShiyLEWXiBD51
+        cm00ooHEeF7HZThdSRwERJbUNvQRi4Mspy3RJFSM5savqFJEIhNEJcqEFiNF
+        lYmsu5gUgkdBjBEFQ1ObYQ5pjzxJZtD3lArG1sgaJWKHjvCtkSd8ch4qrKLw
+        jNFQEQ7R2Fei/8vl5U3/5svnm+vLvr3u3/piQfqfeP/OI/0/MfD3Be/vnRz8
+        KoVYEm3TYu/4oq9Xgf97R1fwp5KM1UtB12MntL93dOxHIXV8wV281l0uVgHD
+        a2pSBZDJLR9ojsHhycHx4ZvXL2sYJCiYpE8ASPeABrCsEa6jbY0Y3eiDGXaI
+        LcSiixOuEtpOXlitVsNUeOwKExdyGHjBeXSWe6uAIbgLAMlQStl3gClV8dFx
+        Ij6mrAtIl5ow3W8N11TnQmaUGdrBIiPv0c1RkW+zbplnKJtcbnG0oTXFQ7xq
+        IRrO1VmnPCwk4dPorB4yT5dnR3lymVV2yS3D8OgYh0YREgWCdwH6Nib/AuSd
+        E6ywRIJqZPtUnUeSdcqwAv8OeBU0/U7QkrGIlU+e8hFWO4wcRrBsP+qazllb
+        wDHsZ1YVA3X7kdsU3p2O35IxJe7GwS42FmlIvNW0XQrMNJFSyPJ2lAyVnHMD
+        y4UEEa7PY4yWmFEXkYHZ9OAGJ/Vdr7BMGzJb1pcEkFKOhws6NIGbaKPkGuE5
+        pnwfKY8guPG5IXJBMS4U8jEIGjaoUL0ogbozIf0CAlfQbV3byKA8iBRS60An
+        pkddl+icBFQiMxCnEMe+7tmg6quj1MS0B3fceqhB2+LEFoVqXEbBhqtYm0U1
+        55hIAG905K2josi9MvsUPBZccq9fDjlC+uViDPtZf5iNJ8NrJoV/ASGVIlbo
+        x5tSE3M3A6u59/2E/zPMZ5LCM7cBdCWKkGe9HPAa5w9EvJm0/C4CS+F+gFO4
+        URgFgZAqs6Ayn+i7Fc6aO/IH2Dbe6suv7MwO3DkEW9XcgbSmE+W8Mx7fZ1Mi
+        IfVFJS6TyMsel7HjwFdwF8HsQzYcx+CFUtjx4OhJCVDCOCzUF+AOKGdMrMYo
+        3pN1zaadEVBMVfuPuah0G+mg1r8Qd61ZGpNUV9n4FDB8WV0uuwSAY1OjCmMb
+        juWSvNCRNCjvjKO/8BLH453l6BYSdUd9IiL1fBZxR5cFn79AX7sL0O1zasLQ
+        gYBT5Plu7Lo9e3XtLufz1YVpH+Tr63vpuL850eVa2r+/f//x5u+bP+g9I8/2
+        HyA8w/gh3Ltz7Ahf2uCi55MxerbyqHqQnbo5mDEbO4txwSsz4UThFC6y8GoJ
+        yXRGCXN3l/7tR0P34m13+m/76PCgK4N+qZnUmHRK1y0H+5adol47zOugDdIa
+        xCQ395itSVTrPSg/ejRJvD3Ez+L0DIp7l9nFewMOiV7anqRUfwvXpKxUXyvJ
+        t0sxmMWqT1qtLmJbokmozG6uXzPl903hd4DKK7har668gx+/Pp4pX8YCJp4M
+        Bujz++uDn46QNUInb169eX2ivx2gwQAYe/s9s8RH8F1vHHsaxpLDHEZqmhgS
+        JXH224+h8I4muqSE4pISqAMD+eTxxBSY0CeO7uBJaQpMmuY4NbXVbrNaJIvv
+        7dJ8XOQrvsVxvTLdVImpV3oqP9XEt/7JBimlWkvZhLTT+/YPLAuIwWUbAAA=
+    http_version: 
+  recorded_at: Mon, 22 Apr 2013 13:03:56 GMT
+- request:
+    method: post
+    uri: http://tinysong.com/?s=sh
+    body:
+      encoding: US-ASCII
+      string: q[]=26237660&q[]=search&q[]=smoke%20on%20the%20water%20deep%20purple
+    headers:
+      Accept:
+      - '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      Content-Length:
+      - '68'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - richhickey
+      Date:
+      - Mon, 22 Apr 2013 13:03:56 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Content-Length:
+      - '1621'
+      Connection:
+      - close
+      Set-Cookie:
+      - TinysongSessionID=056227ab1bb62406743070af2471008f; expires=Mon, 18-Apr-2016
+        13:03:56 GMT; path=/
+      Cache-Control:
+      - max-age=300
+      Expires:
+      - Mon, 22 Apr 2013 13:08:56 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      X-Hostname:
+      - rhl081
+      - rhl081
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+        AA==
+    http_version: 
+  recorded_at: Mon, 22 Apr 2013 13:03:56 GMT
+- request:
+    method: post
+    uri: http://tinysong.com/?s=sh
+    body:
+      encoding: US-ASCII
+      string: q[]=25619712&q[]=search&q[]=smoke%20on%20the%20water%20deep%20purple
+    headers:
+      Accept:
+      - '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      Content-Length:
+      - '68'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - richhickey
+      Date:
+      - Mon, 22 Apr 2013 13:03:56 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Content-Length:
+      - '1551'
+      Connection:
+      - close
+      Set-Cookie:
+      - TinysongSessionID=c0dfc02aeac21e7d27b09f751d0fabe9; expires=Mon, 18-Apr-2016
+        13:03:56 GMT; path=/
+      Cache-Control:
+      - max-age=300
+      Expires:
+      - Mon, 22 Apr 2013 13:08:56 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      X-Hostname:
+      - rhl061
+      - rhl061
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        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
+        3SKlVF0pm5B1et/+Aeg3Sog7GwAA
+    http_version: 
+  recorded_at: Mon, 22 Apr 2013 13:03:57 GMT
+- request:
+    method: post
+    uri: http://tinysong.com/?s=s
+    body:
+      encoding: US-ASCII
+      string: q[]=smoke%20on%20the%20water%20deep%20purple&q[]=0
+    headers:
+      Accept:
+      - '*/*; q=0.5, application/xml'
+      Accept-Encoding:
+      - gzip, deflate
+      Content-Length:
+      - '50'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - richhickey
+      Date:
+      - Mon, 22 Apr 2013 13:03:57 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Content-Length:
+      - '594'
+      Connection:
+      - close
+      Set-Cookie:
+      - TinysongSessionID=8d1ba131d17ccb594f0e89a838ff8cb8; expires=Mon, 18-Apr-2016
+        13:03:57 GMT; path=/
+      Cache-Control:
+      - max-age=300
+      Expires:
+      - Mon, 22 Apr 2013 13:08:57 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Encoding:
+      - gzip
+      X-Hostname:
+      - rhl110
+      - rhl110
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA+WXyW7bMBCGX2WqQ5ECVazN8gLVhyIGfEhbwU7RiwCDkRlb
+        MLWUpLIgyLt3tFqynDa9Wa0OBjnkzPwz80mAn5WdDJkyVaDxOJvgHnxGhPjk
+        KZyKlMn1AydJQrmnQLA5YZ15ERw9TsqOgqAzpwy3pmmPDXtkqYIS7u9yd086
+        LKgdShMam1rEjmCkONp2EjoiIVF97zaVMo7w0ipzcLxBdtrwQAuGbRhO5EoY
+        eaqqFVytJHdqeKsUF+P9RkmW/4QKyYm/r5uBhymr1+2OlW1ZhfGeQhyB3FH4
+        QSTlmIIFrzgRLgOBc5ldUZqAm/KE0fZ93NUp/yTWZzhODNa4VwUrwmSNbrYK
+        7e9UFZaLa13XwBuANbGHQyNbaaCqx419HSjDtCxraA57BFQluVPDWQL1LYKb
+        Cii4uA7u6Yf/gSvd0kx9Mu4TV5XkTg1nxtXVfO6C+33pXs/fRFKXwz4CZdiG
+        ObJtrUdAVZI7NZwZUCc+VIamjeFiRaIND36mFN7DDRF7PFgQzugTLGkYPP7L
+        HzLAXQO+oa1PRrrRJ/hKyZ0azgy+zymPes1R7lkGi/Jk+QjCmNN1wZLAGVQC
+        2uaysfkEZk4QbkFwP6Np8EBvg8hn6YYKb+AL/AlCss02pfM6i3SZZD08IJB3
+        9AseQHnrMMAGQn9bofJRyTN8JSHFPzzFO4DGkAqBmtDURkjSR9mu7TB0yYux
+        LyiKRNZBxGGt9rIlN19hml0sZFSkLkSiDTNw4hJOQqFMn5X47k5QqUx1/eXl
+        F+Hu80aZDQAA
+    http_version: 
+  recorded_at: Mon, 22 Apr 2013 13:03:57 GMT
+recorded_with: VCR 2.4.0
