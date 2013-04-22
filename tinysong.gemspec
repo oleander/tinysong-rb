@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency("rspec")  
   spec.add_development_dependency("webmock", "~> 1.8.0")
 
-  spec.required_ruby_version = "~> 1.9.2"
+  spec.required_ruby_version = ">= 1.9.2"
 end
